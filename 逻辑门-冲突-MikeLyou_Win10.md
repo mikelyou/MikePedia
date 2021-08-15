@@ -22,7 +22,7 @@ tags:
 
 ![[Attachment/Pasted image 20210730201156.png]] ![[Attachment/Pasted image 20210730201202.png]]
 
-> 可补充内容：电平图、背景
+> 可补充内容：真值表、电平图、背景
 
 ***
 ## 与门、或门、非门
