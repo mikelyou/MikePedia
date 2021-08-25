@@ -1,3 +1,3 @@
 # MikePedia
 
-[MikePedia at Gitpress](gitpress.io/c/mikepedia/)
+[MikePedia at Gitpress](https://gitpress.io/c/mikepedia/)
